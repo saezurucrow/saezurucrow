@@ -22,4 +22,8 @@ My Github Stats:
 
 These cards are powered by https://github.com/anuraghazra/github-readme-stats
 
+---
 
+Visitor Count:
+
+![Visitor Count](https://profile-counter.glitch.me/saezurucrow/count.svg)
