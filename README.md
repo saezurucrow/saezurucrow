@@ -24,6 +24,12 @@ These cards are powered by https://github.com/anuraghazra/github-readme-stats
 
 ---
 
+Github Trophy:
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saezurucrow)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 Visitor Count:
 
 ![Visitor Count](https://profile-counter.glitch.me/saezurucrow/count.svg)
