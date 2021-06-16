@@ -30,6 +30,12 @@ Github Trophy:
 
 ---
 
+GitHub Streak
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saezurucrow&theme=dark)](https://git.io/streak-stats)
+
+---
+
 Visitor Count:
 
 ![Visitor Count](https://profile-counter.glitch.me/saezurucrow/count.svg)
